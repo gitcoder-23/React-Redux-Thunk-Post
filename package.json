@@ -1,5 +1,6 @@
 {
   "name": "redux-thunk-posts",
+  "you-tut": "https://youtu.be/mWYIpZLfDJs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
